@@ -9,7 +9,7 @@ A full-featured scientific calculator with support for trigonometric, logarithmi
 - **Concepts Used:** React Hooks (`useState`), event handling, conditional rendering, custom logic for scientific operations.  
 - **Folder:** `/scientific-calculator`
 
---
+---
 
 ### 2. Text Analyser
 A text analyser that counts the **number of vowels** and **words** in a given input.  
