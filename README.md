@@ -25,6 +25,6 @@ An SGPA calculator to help students calculate their semester grades easily.
 
 Tech Stack:
 
-React.js
-JavaScript (ES6+)
-HTML5 & CSS3
+React.js, 
+ JavaScript (ES6+),
+ HTML5 & CSS3
