@@ -1,0 +1,19 @@
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: "Segoe UI", Arial, sans-serif;
+
+  /* Background with math doodle (use any math wallpaper / doodle) */
+  background: url("https://t3.ftcdn.net/jpg/04/83/90/18/360_F_483901821_46VsNR67uJC3xIKQN4aaxR6GtAZhx9G8.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+  position: absolute;
+  top: 20px;
+  font-size: 2rem;
+  color: #222;
+  text-shadow: 1px 1px 2px #fff;
+}
